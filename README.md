@@ -2,6 +2,6 @@
 
 
 An end-to-end, short-term project of image classification and detection. 
-Data preprocessing and modeling. Also image and video prediction, and a couple of server operations.
+Includes data preprocessing, modeling, image and video prediction, and a couple of server operations and utils scripts.
 
 November, 2017
